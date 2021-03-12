@@ -1,6 +1,8 @@
 /node_modules
 /build
 
+dev.js
+
 .ds_Store
 
 npm-debug.logs*
